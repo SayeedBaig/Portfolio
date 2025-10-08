@@ -80,7 +80,7 @@ function ProjectList() {
   // If true, it uses your Render URL.
   // If false (i.e., running locally), it uses your localhost URL.
   const API_URL = process.env.NODE_ENV === 'production'
-    ? 'https://myortfolio1.onrender.com/projects/'
+    ? 'https://sayeedportfolio.onrender.com'
     : 'http://localhost:5000/projects/';
 
   axios.get(API_URL)
