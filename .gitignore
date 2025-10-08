@@ -1,0 +1,16 @@
+# Dependencies - Ignores all node_modules folders anywhere in the project
+node_modules/
+
+# Production builds - Ignores all build folders
+build/
+
+# Environment Variables - Ignores all .env files
+.env*
+
+# Mac and Windows system files
+.DS_Store
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
