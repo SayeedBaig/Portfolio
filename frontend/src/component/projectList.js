@@ -59,12 +59,12 @@ function ProjectList() {
     title: 'CipherVault',
     description: 'A future secure collaborative digital diary with end-to-end encryption for private data storage.',
     imageUrl: CipherImg,
-    technologies: ['React', 'Node.js', 'MongoDB', 'Security'],
+    technologies: ['C-lang','React', 'Node.js', 'MongoDB', 'Security'],
     projectUrl: '#'
   },
   {
     _id: '6',
-    title: 'Feature Projects...',
+    title: 'Future Projects...',
     description: 'Future projects coming soon...',
     imageUrl: FeatureImg,
     technologies: ['--', '--'],

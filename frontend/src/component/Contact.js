@@ -77,8 +77,8 @@ function Contact() {
 
           <div className="info-box">
             <h3>Connect With Me</h3>
-            <a href="https://github.com/sayeedbaig" target="_blank" rel="noreferrer"><FaGithub /> @sayeedbaig</a>
-            <a href="https://linkedin.com/in/sayeedbaig" target="_blank" rel="noreferrer"><FaLinkedin /> /in/sayeedbaig</a>
+            <a href="https://github.com/SayeedBaig" target="_blank" rel="noreferrer"><FaGithub /> @sayeedbaig</a>
+            <a href="https://www.linkedin.com/in/sayeed-baig-3764a5297/" target="_blank" rel="noreferrer"><FaLinkedin /> /in/sayeedbaig</a>
             <a href="https://twitter.com/sayeedbaig" target="_blank" rel="noreferrer"><FaTwitter /> @sayeedbaig</a>
             <p><FaDiscord /> sayeedbaig#1234</p>
           </div>
@@ -88,7 +88,7 @@ function Contact() {
             <p>Whether you have a project in mind, want to collaborate, or just want to connect — I'd love to hear from you.</p>
             <div className="buttons">
               <a href="mailto:baigsayeed06@gmail.com" className="btn-primary">Quick Email</a>
-              <a href="https://linkedin.com/in/sayeedbaig" target="_blank" rel="noreferrer" className="btn-secondary">LinkedIn</a>
+              <a href="https://www.linkedin.com/in/sayeed-baig-3764a5297/" target="_blank" rel="noreferrer" className="btn-secondary">LinkedIn</a>
             </div>
           </div>
         </div>

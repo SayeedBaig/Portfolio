@@ -34,7 +34,7 @@ function Hero() {
           <div className="hero-buttons">
             <a href="#projects" className="btn btn-primary">Contact me</a>
             {/* Link  resume PDF file here. Place it in the `public` folder */}
-            <a href="/resume.pdf" className="btn btn-secondary" download>Resume Updated soon</a>
+            <a href="/SayeedBaig_1RF23CS149.pdf" className="btn btn-secondary" download>Resume Updated soon</a>
           </div>
         </div>
 
