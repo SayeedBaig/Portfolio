@@ -29,7 +29,7 @@ function Hero() {
           <h1>Hi, I'm Sayeed Baig</h1>
           <p>
             A Computer Science Engineering student (RVITM, Bangalore) | Aspiring Full-stack Developer | 
-            Passionate About Software Engineering
+            Passionate About Software Engineering and enthusiastic of AIML 
           </p>
           <div className="hero-buttons">
             <a href="#projects" className="btn btn-primary">Contact me</a>
